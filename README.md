@@ -4,9 +4,10 @@
    </a>
 </p>
 
-# Sobre o Projeto 👨🏻‍💻
 
-<h4>Site da Bmw em estagio de testes para ser um Framework para mim na criação de outros sites</h4>
+<h1 align="center">Sobre o Projeto 👨🏻‍💻 </h1>
+
+<h4 align="center">Site da Bmw em estagio de testes para ser um Framework para mim na criação de outros sites</h4>
 
 <br>
 
@@ -18,9 +19,8 @@
 </p>
 
 <br>
-<br>
 
-#### Imagem
+<h2 align="center">Representação Visual</h2>
 
 <h1 aling="center">
    <img alt="Readme" title="Readme" src="img/site.png" />
