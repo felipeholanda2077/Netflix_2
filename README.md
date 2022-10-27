@@ -22,7 +22,7 @@
 
 <h2 align="center">Representação Visual</h2>
 
-<h1 aling="center">
+<h1 align="center">
    <img alt="Readme" title="Readme" src="img/site.png" />
 </h1>
 
