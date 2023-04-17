@@ -9,6 +9,10 @@
 
 <h4 align="center">Site da Bmw em estagio de testes para ser um Framework para mim na criação de outros sites</h4>
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
+</p>
+
 <br>
 
 <p align="center">Esse projeto...<br>
